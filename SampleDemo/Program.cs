@@ -8,3 +8,5 @@ else
 {
     Console.WriteLine($"{num} is odd"); // false
 }
+
+Console.WriteLine("Sample text added");
