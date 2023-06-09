@@ -22,6 +22,7 @@ namespace SampleDemo
 
             Console.WriteLine($"Addition of {num1} and {num2} is = {sum}");
             Console.WriteLine("End of program");
+            Console.WriteLine("Test");
         }
     }
 }
